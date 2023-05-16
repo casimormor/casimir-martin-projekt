@@ -1,5 +1,5 @@
 /*
-Theme Name:   Test-tema
+Theme Name:   Casimir och Martins tema
 Theme URI:    http://example.com/twenty-fifteen-child/
 Author:       Casimir, Martin
 Template:     generatepress
@@ -18,8 +18,9 @@ body {
     line-height: 1.5;
 }
 
-
-
+.inside-right-sidebar  {
+    background-color: #ed8f97;
+}
 
 a:hover {
     color: #d86a5f;
@@ -28,18 +29,24 @@ a:hover {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    color:#76c7c0;
+    color:#333333 ;
     font-family: Arial, sans-serif;
     font-weight: bold;
     
 }
 
+.site-header {
+    display: block;
+    background-color:#b6e7dc
+}
 
 .main-navigation {
     background-color: #ed8f97;
 }
 
-
+.sidebar .widget {
+    background-color:#A2DED0;
+}
 
 .site-footer {
     background-color: #76c7c0;
