@@ -19,10 +19,7 @@ body {
 }
 
 
-a {
-    color: #ea6f64;
-    text-decoration: none;
-}
+
 
 a:hover {
     color: #d86a5f;
@@ -31,7 +28,7 @@ a:hover {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    color: salmon;
+    color:#76c7c0;
     font-family: Arial, sans-serif;
     font-weight: bold;
     
